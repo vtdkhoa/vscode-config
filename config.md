@@ -59,7 +59,7 @@
     },
     {
       "tag": "*",
-      "color": "#474747",
+      "color": "#bc13fe",
       "strikethrough": false,
       "backgroundColor": "transparent"
     },
