@@ -87,14 +87,15 @@
   ],
 
   "workbench.colorCustomizations": {
-    "activityBar.background": "#f43d55",
-    "activityBar.foreground":"#F6FCF5",
-    "activityBar.inactiveForeground": "#F6FCF5",
-    "titleBar.activeBackground": "#df244e",
-    "titleBar.activeForeground": "#F6FCF5",
-    "statusBar.background": "#df244e",
-    "statusBar.foreground": "#F6FCF5",
-    "tab.activeBorder": "#f43d55"
+    "tab.activeBorder": "#00BFFF",
+    "tab.activeForeground": "#00BFFF",
+    "activityBar.background": "#4169E1",
+    "activityBar.foreground":"#F5F5F5",
+    "activityBar.inactiveForeground": "#C0C0C0",
+    "titleBar.activeBackground": "#1E90FF",
+    "titleBar.activeForeground": "#F5F5F5",
+    "statusBar.background": "#1E90FF",
+    "statusBar.foreground": "#F5F5F5"
   },
 
   "workbench.colorTheme": "CodeSandbox"
